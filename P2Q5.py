@@ -1,5 +1,5 @@
 #JD is the mastermind behind this simple program. 
-#I learned a lot form him. 
+#I learned a lot from him. 
 import csv
 from pathlib import Path
 from itertools import groupby
